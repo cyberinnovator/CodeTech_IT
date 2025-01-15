@@ -31,8 +31,21 @@ gcloud compute instances create vm-instance-1 \
     --boot-disk-size=20GB \
     --boot-disk-type=pd-balanced \
     --tags=http-server,https-server
+```
+![VM Instance Status](images/vm-status.png)
+
+## **2. Setting Up a Cloud Storage Bucket**
+
+### **Description**
+A Cloud Storage bucket is used to store and manage objects like application data, backups, and logs. Below are the steps to create and configure a bucket.
+
+### **Command**
+The following command creates a Cloud Storage bucket named `my-storage-bucket` in the `us-central1` region:
+
+```bash
 gcloud storage buckets create my-storage-bucket \
     --location=us-central1 \
     --storage-class=STANDARD
 gcloud config set project [PROJECT_ID]
-
+```
+![Cloud Storage Bucket](https://github.com/username/repository-name/blob/main/images/bucket-status.png)
