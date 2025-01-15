@@ -33,7 +33,7 @@ gcloud compute instances create vm-instance-1 \
     --boot-disk-type=pd-balanced \
     --tags=http-server,https-server
 ```
-![VM Instance Status](images/vm-status.png)
+![VM Instance Status](Capture.PNG)
 
 ## **2. Setting Up a Cloud Storage Bucket**
 
@@ -49,4 +49,4 @@ gcloud storage buckets create my-storage-bucket \
     --storage-class=STANDARD
 gcloud config set project [PROJECT_ID]
 ```
-![Cloud Storage Bucket](https://github.com/username/repository-name/blob/main/images/bucket-status.png)
+![Cloud Storage Bucket](Cloud_storage.PNG)
