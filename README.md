@@ -33,7 +33,7 @@ gcloud compute instances create vm-instance-1 \
     --boot-disk-type=pd-balanced \
     --tags=http-server,https-server
 ```
-![VM Instance Status](Capture.PNG)
+![VM Instance Status](VM.PNG)
 
 ## **2. Setting Up a Cloud Storage Bucket**
 
