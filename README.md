@@ -1,4 +1,5 @@
 # CodeTech_IT
+#Task 1
 # Cloud Resource Setup: VM Instance and Cloud Storage Bucket
 
 This repository provides a guide and example scripts to set up essential cloud resources:
