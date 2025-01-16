@@ -51,7 +51,7 @@ gcloud config set project [PROJECT_ID]
 ```
 ![Cloud Storage Bucket](Cloud_storage.PNG)
 
-#Task 2
+# Task 2
 # Google Cloud Monitoring and Alerts Setup
 
 This repository demonstrates how to set up Google Cloud Monitoring for a cloud-based application. Follow the steps below to configure monitoring, alerts, and a dashboard to track critical metrics.
