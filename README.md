@@ -114,4 +114,4 @@ sudo apt-get update
    - 2nd Chart (Line): Received Packets
 4. Save the dashboard.
 ```
-![Dashboard](dashboad.png)
+![Dashboard](dashboad.PNG)
