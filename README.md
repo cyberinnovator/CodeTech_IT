@@ -104,7 +104,7 @@ sudo apt-get update
    - Notification Channel: Add an email or SMS notification.
 3. Save the alerting policy.
 ```
-![Alert](alertng.png)
+![Alert](alertng.PNG)
 ### Step 5: Create a Dashboard and Charts
 ```bash
 1. Navigate to Google Cloud Console > Monitoring > Dashboards.
