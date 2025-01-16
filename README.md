@@ -1,14 +1,11 @@
 # CodeTech_IT
 
-###Name: Vedant Patil
+### Name: Vedant Patil
+### Company: Codtech IT Solutions
+### ID: CT08HSO
+### Domain: Cloud Computing
+### Duration: Dec 2024 - Jan 2025
 
-###Company: Codtech IT Solutions
-
-###ID: CT08HSO
-
-###Domain: Cloud Computing
-
-###Duration: Dec 2024 - Jan 2025
 # Task 1
 # Cloud Resource Setup: VM Instance and Cloud Storage Bucket
 
