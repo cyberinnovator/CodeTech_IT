@@ -148,13 +148,6 @@ This project demonstrates deploying a static website frontend on Google Cloud Pl
 
 ---
 
-## Future Enhancements
-
-- Use Google Cloud Functions or Firebase for additional frontend features.
-- Scale the backend using AWS Elastic Beanstalk or Lambda with API Gateway.
-
----
-
 ## Conclusion
 This project demonstrates the basics of multi-cloud deployment, combining GCP for the frontend and AWS for the backend. It showcases the flexibility of using multiple cloud platforms to build scalable and resilient applications.
 
