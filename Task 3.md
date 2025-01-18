@@ -31,7 +31,7 @@ This project demonstrates deploying a static website frontend on Google Cloud Pl
 ### 1. Setup Frontend on GCP
 
 #### a. Create a GCP Project
-1. Log in to [Google Cloud Console](https://console.cloud.google.com/).
+1. Log in to Google Cloud Console.
 2. Create a new project and name it `multi-cloud-frontend`.
 3. Enable the Cloud Storage API.
 
@@ -82,7 +82,7 @@ This project demonstrates deploying a static website frontend on Google Cloud Pl
 ### 2. Setup Backend on AWS
 
 #### a. Launch AWS EC2 Instance
-1. Log in to [AWS Management Console](https://aws.amazon.com/console/).
+1. Log in to AWS Management Console.
 2. Navigate to EC2 and launch an instance:
    - AMI: Ubuntu 22.04
    - Instance Type: t2.micro (free tier eligible)
