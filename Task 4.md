@@ -1,10 +1,9 @@
+# Task 4
 # Cloud Storage Data Encryption and IAM Configuration
 
 This guide explains how to create a Google Cloud Storage bucket, enable Cloud Key Management Service (KMS), create keyrings and cryptographic keys, encrypt and decrypt data, and configure IAM permissions.
 
 ---
-
-## Task 4: Steps for Cloud Storage Data Encryption
 
 ### Step 1: Create a Cloud Storage Bucket
 
