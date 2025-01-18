@@ -75,10 +75,7 @@ This project demonstrates deploying a static website frontend on Google Cloud Pl
    gcloud storage websites set gs://BUCKET_NAME --main-page-suffix index.html
    ```
 
-**Suggested Screenshots**:
-- GCP Project Dashboard.
-- Cloud Storage bucket configuration.
-- Deployed static website on GCP.
+![EC2 details](Cloud_storage.PNG)
 
 ---
 
@@ -124,9 +121,7 @@ This project demonstrates deploying a static website frontend on Google Cloud Pl
    curl http://EC2_PUBLIC_IP:5000/api
    ```
 
-**Suggested Screenshots**:
-- EC2 instance details.
-- API response from curl or browser.
+![EC2 details](AWS_ec2.PNG)
 
 ---
 
@@ -139,9 +134,6 @@ This project demonstrates deploying a static website frontend on Google Cloud Pl
        .then(data => console.log(data));
    ```
 2. Deploy the updated frontend to GCP.
-
-**Suggested Screenshot**:
-- Network request in browser dev tools showing successful API call.
 
 ---
 
