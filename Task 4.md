@@ -13,7 +13,7 @@ Create a new Cloud Storage bucket:
 BUCKET_NAME="bucky_111"
 gsutil mb gs://${BUCKET_NAME}
 ```
-![bucket_img](.PNG)
+![bucket_img](bucket.PNG)
 
 ### Step 2: Enable Cloud KMS
 
@@ -87,7 +87,8 @@ gcloud kms keyrings add-iam-policy-binding $KEYRING_NAME \
     --role roles/cloudkms.cryptoKeyEncrypterDecrypter
 ```
 
-![IAM](.PNG)
+![IAM](User2 access.PNG)
+
 ---
 
 ## Explanation of Steps
@@ -112,11 +113,4 @@ gcloud kms keyrings add-iam-policy-binding $KEYRING_NAME \
 
 ---
 
-## Suggested Visuals
 
-- Diagram of the encryption workflow.
-- Screenshots of Cloud Storage bucket creation.
-- Output of the encryption and decryption commands.
-- IAM role assignments and policy bindings.
-
----
