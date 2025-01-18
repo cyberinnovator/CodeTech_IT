@@ -148,13 +148,6 @@ This project demonstrates deploying a static website frontend on Google Cloud Pl
 
 ---
 
-## Additional Resources
-
-- [Google Cloud Storage Documentation](https://cloud.google.com/storage/docs/hosting-static-website)
-- [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/index.html)
-
----
-
 ## Future Enhancements
 
 - Use Google Cloud Functions or Firebase for additional frontend features.
