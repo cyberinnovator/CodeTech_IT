@@ -87,7 +87,7 @@ gcloud kms keyrings add-iam-policy-binding $KEYRING_NAME \
     --role roles/cloudkms.cryptoKeyEncrypterDecrypter
 ```
 
-![IAM](User2 access.PNG)
+![IAM](User2access.PNG)
 
 ---
 
